@@ -8,6 +8,7 @@ https://docs.djangoproject.com/en/5.0/howto/deployment/wsgi/
 """
 
 import os
+import ckeditor  # Asegúrate de que esta línea sea correcta
 
 from django.core.wsgi import get_wsgi_application
 
